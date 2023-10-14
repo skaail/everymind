@@ -17,6 +17,9 @@ export const NItem = styled.div`
 
 export const NLink = styled.a`
     cursor: pointer;
+    text-decoration: none;
+
+    color: black;
 
     &:hover{
         text-decoration: underline;

@@ -9,7 +9,7 @@ function Navbar() {
         </NItem>
 
         <NItem>
-            <NLink>Home</NLink>
+            <NLink href='/'>Home</NLink>
         </NItem>
 
         <NItem>
@@ -21,7 +21,7 @@ function Navbar() {
         </NItem>
 
         <NItem>
-            <NLink>Meu Perfil</NLink>
+            <NLink href='/perfil'>Meu Perfil</NLink>
         </NItem>
     </NMain>
   )
